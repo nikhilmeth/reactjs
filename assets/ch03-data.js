@@ -2,7 +2,7 @@ window.LMDirectory = {
   'people' : [
     {
       'id': 'lm001',
-      'name': 'Tony Luis Salvador, MLA',
+      'name': 'Nikhilesh Methuku',
       'title_cat': 'architect',
       'intern': false,
       'title': 'Principal Landscape Architect',
